@@ -1,49 +1,73 @@
-# 🛒 Superstore Sales Dashboard – Power BI
+# 📊 Superstore Sales Dashboard
 
-## 📊 Project Overview
-This project is an *interactive Power BI dashboard* built to analyze the Superstore dataset.  
-It provides key insights into *sales, profit, and customer behavior* to help businesses identify trends, improve profitability, and optimize decision-making.
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## ✨ Key Features
-- *Executive Summary Page*:  
-  - KPIs: Total Sales, Total Profit, Profit Margin %, Total Orders  
-  - Region-wise performance map  
-  - Monthly sales trends  
-  - Top customers and segment profitability  
-- *Category & Product Analysis*:  
-  - Sales vs. Profit by category and sub-category  
-  - Product-level profitability insights  
-- *Regional Performance*:  
-  - Profit and sales distribution by region and state  
-  - Top/Bottom performing states  
-- *Interactive Slicers*:  
-  - Filter by Date, Region, and Category to view dynamic metrics.
+> An interactive sales analytics dashboard built in Power BI to uncover business insights from Superstore retail data.
 
-## 🗂 Dataset
-- *Source*: [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-- Records: ~10,000  
-- Fields: Order details, customer information, sales, profit, shipping modes, etc.
+---
 
-## 🖼 Dashboard Screenshots
-*(Add screenshots inside an /images folder in this repo and update paths below)*
-|
-## 🛠 Tools Used
-- *Power BI Desktop* – Data cleaning, modeling, and visualization  
-- *DAX* – Calculated measures (Total Sales, Profit Margin %, etc.)  
-- *Power Query* – Data transformation and cleaning  
+## 📌 Overview
 
-## 🔑 Key Insights
-- The *West Region* contributes the highest profit despite lower sales volume.
-- *Technology* category delivers the best profit margins (~25%).
-- High discounts on *Furniture* reduce profitability.
-- Peak sales occur in *November–December*, indicating strong holiday demand.
+This project analyzes a Superstore dataset using **Power BI** to identify sales trends, profit patterns, and regional performance through interactive visualizations and DAX measures.
 
-## 🚀 How to Use
-1. Download the Superstore_Sales_Dashboard.pbix file.
-2. Open with *Power BI Desktop*.
-3. Explore the dashboard and use slicers to filter data by date, region, and category.
+---
 
-## 🙌 Author
-Created by AAKASH S S  
-📧 Contact: aakash1552005@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/aakash-s-s-88b91a301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## ✨ Features
+
+- ✅ Interactive slicers by Region, Category & Date
+- ✅ Sales & Profit KPI cards
+- ✅ Time-series trend analysis
+- ✅ Top products & customer segments
+- ✅ Regional performance heatmap
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard building & visualization |
+| DAX | Custom measures & calculations |
+| Power Query | Data cleaning & transformation |
+| Excel / CSV | Data source |
+
+---
+
+## 📸 Dashboard Preview
+
+> 📌 *Add a screenshot of your dashboard here!*
+> (Take a screenshot of your Power BI dashboard → upload to the repo → replace this line)
+
+---
+
+## 📈 Key Insights
+
+- 🏆 Technology category drives the highest profit
+- 📍 West region outperforms all others in sales
+- 📉 Furniture has the lowest profit margin
+- 🛒 Corporate segment contributes most to revenue
+
+---
+
+## 📂 Dataset
+
+- Source: Superstore Sales Dataset (Kaggle)
+- Records: 9,994 rows × 21 columns
+- Fields: Order details, customer info, product category, sales, profit
+
+---
+
+## 🚀 How to Open
+
+1. Download the `.pbix` file from this repo
+2. Open with **Power BI Desktop**
+3. Explore the interactive dashboard!
+
+---
+
+## 👨‍💻 Author
+
+**Aakash S S**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakash-s-s-88b91a301)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/aakash1552005)
